@@ -1,0 +1,10 @@
+build/
+dist/
+.DS_Store
+tools/hank-bench/reference/
+presets/audition/
+__pycache__/
+*.pyc
+
+# Working notes, kept locally and not published.
+docs/
